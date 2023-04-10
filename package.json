@@ -33,6 +33,7 @@
     "mongoose-slug-generator": "^1.0.4"
   },
   "devDependencies": {
+    "bootstrap-icons": "^1.10.4",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.0",
     "morgan": "^1.10.0",
